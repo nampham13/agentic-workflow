@@ -1,6 +1,6 @@
 # Life AI Agentic - Molecule Generation & Screening
 
-[![Python](https://img.shields.io/badge/python-3.9+-blue)]() [![FastAPI](https://img.shields.io/badge/FastAPI-async-009688)]() [![RDKit](https://img.shields.io/badge/RDKit-chemistry-orange)]()
+[![Python](https://img.shields.io/badge/python-3.12+-blue)]() [![FastAPI](https://img.shields.io/badge/FastAPI-async-009688)]() [![RDKit](https://img.shields.io/badge/RDKit-chemistry-orange)]()
 
 Production-style agentic backend for drug-like molecule discovery using multi-agent system architecture and real chemistry validation.
 
@@ -205,8 +205,8 @@ rules = {
 ## 🛠️ Development
 
 ### Prerequisites
-- Python 3.9+
-- 4GB RAM minimum
+- Python 3.12+
+- 8GB RAM minimum
 
 ### Manual Setup
 ```bash
